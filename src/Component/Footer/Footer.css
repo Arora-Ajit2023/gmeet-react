@@ -1,0 +1,39 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0.8rem 0;
+}
+.cam-options {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+.setting-option {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  gap: 1.5rem;
+}
+.heading p {
+  color: white;
+}
+.footer-icon {
+  border-radius: 50%;
+  color: white;
+  border: 1px solid transparent;
+  padding: 0.5rem;
+  background-color: #3c4043;
+}
+.footer-btn {
+  width: 60px;
+  padding: 0.4rem 1rem;
+  background-color: red;
+  border: none;
+  border-radius: 26px;
+  color: white;
+}
+.footer-right-icon {
+  color: white;
+}
